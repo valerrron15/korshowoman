@@ -1,0 +1,140 @@
+.,
+. * {
+  box-sizing: border-box;
+}
+. {
+  background: #d9d9d9;
+  width: 370px;
+  height: 6443px;
+  position: relative;
+  overflow: hidden;
+}
+._2 {
+  width: 370px;
+  height: 776px;
+  position: absolute;
+  left: 0px;
+  top: 828px;
+  overflow: hidden;
+}
+.2 {
+  color: #3a3939;
+  text-align: center;
+  font: 400 19px "Rostov", sans-serif;
+  position: absolute;
+  left: 36px;
+  top: 137px;
+}
+._1 {
+  width: 366px;
+  height: 390px;
+  position: absolute;
+  left: 0px;
+  top: 101px;
+  box-shadow: 16px 4px 35px 0px rgba(0, 0, 0, 0.46);
+}
+.rectangle-7 {
+  background: #ff004d;
+  width: 370px;
+  height: 312px;
+  position: absolute;
+  left: 0px;
+  top: 491px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-1 {
+  background: #ff004d;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 318px;
+  top: 50px;
+}
+.rectangle-8 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 24.92px;
+  height: 1.85px;
+  position: absolute;
+  left: 323.54px;
+  top: 62px;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 24.92px;
+  height: 1.85px;
+  position: absolute;
+  left: 323.54px;
+  top: 67.08px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 24.92px;
+  height: 1.85px;
+  position: absolute;
+  left: 323.54px;
+  top: 72.15px;
+}
+.3 {
+  color: #ffffff;
+  text-align: justified;
+  font: 400 13px "Rostov", sans-serif;
+  position: absolute;
+  left: 36px;
+  top: 631px;
+}
+.4 {
+  position: absolute;
+  left: 177px;
+  top: 50px;
+  overflow: visible;
+}
+.5 {
+  position: absolute;
+  left: 257px;
+  top: 50px;
+  transform: translate(-36.95px, 0px);
+  overflow: visible;
+}
+.6 {
+  position: absolute;
+  left: 263px;
+  top: 50px;
+  overflow: visible;
+}
+.home {
+  width: 319px;
+  height: 340px;
+  position: absolute;
+  left: 25px;
+  top: 305px;
+}
+.7 {
+  color: #ff004d;
+  text-align: center;
+  font: 400 53px/92% "Rostov", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.8 {
+  color: #3a3939;
+  text-align: center;
+  font: 400 19px "Rostov", sans-serif;
+  position: absolute;
+  left: 115px;
+  top: 105px;
+}
+.line-1 {
+  position: absolute;
+  left: 160px;
+  top: 340px;
+  transform: translate(-3.68px, -42px);
+  overflow: visible;
+}
